@@ -1,4 +1,4 @@
-It is web app is a code editor that allows its users to collaborate and write code together. It provides basic editing features and the changes are synced in realtime. The editor supports syntax of 21 programming languages and offers 63 design themes.
+This Code Editor that allows its users to collaborate and write code together. It provides basic editing features and the changes are synced in realtime. The editor supports syntax of 21 programming languages and offers 63 design themes.
 <br/>
 <br/>
 ### Tech Stack ###
